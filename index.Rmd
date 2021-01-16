@@ -1,0 +1,46 @@
+---
+title: "Akim van Eersel"
+image: "Profil2048.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/akim-van-eersel-115553116/"
+  - label: Twitter
+    url: "https://twitter.com/vanAkim_ee"
+  - label: GitHub
+    url: "https://github.com/vanAkim"
+  - label: Email
+    url: "mailto:vanakim@protonmail.com"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Akim van Eersel studied experimental physics and its associated means of
+measurement. After working in industrial instrumentation and research optronics,
+he decided to reorient himself in data science. Since the beginning of 2020,
+he has been learning independently the associated programming languages,
+the workflow from harvesting to data analysis, statistics, linear models and 
+machine learning.
+
+## Education
+
+**Johns Hopkins University** | Online by Coursera
+
+*Data Science Specialization | 2020*
+
+**IBM** | Online by Coursera
+
+*IBM Data Science Professional Certificate | 2020*
+
+---
+
+**INSA** | Rennes, France
+
+*Engineering Master’s Degree in Materials Science | September 2014 - September 2017*
+
+## Experience
+
+**ISAE-SUPAERO** | Research Scientist | September 2018 - December 2019
+
+**ALTEN** | Consulting Engineer | January 2018 - Mars 2018
