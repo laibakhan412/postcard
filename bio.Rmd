@@ -1,5 +1,5 @@
 ---
-title: "Akim van Eersel"
+title: "**Akim van Eersel** <br> Data Scientist"
 image: "Profil2048.jpg"
 links:
   - label: LinkedIn
@@ -25,22 +25,26 @@ machine learning.
 
 ## Education
 
-**Johns Hopkins University** | Online by Coursera
+**Master’s Degree in Materials Science Engineering**  
 
-*Data Science Specialization | 2020*
+*INSA Rennes | France | 2014 - 2017*
 
-**IBM** | Online by Coursera
 
-*IBM Data Science Professional Certificate | 2020*
+## Certificates
 
----
+**Data Science Specialization** 
 
-**INSA** | Rennes, France
+*by Johns Hopkins University on Coursera | 300 hours | 01/2021*  
 
-*Engineering Master’s Degree in Materials Science | September 2014 - September 2017*
+**IBM Data Science**
+
+*by IBM on Coursera | 300 hours | 12/2020* 
+
 
 ## Experience
 
-**ISAE-SUPAERO** | Research Scientist | September 2018 - December 2019
+**ISAE-SUPAERO** | Ph.D. Student | 2018 - 2019
 
-**ALTEN** | Consulting Engineer | January 2018 - Mars 2018
+**ALTEN** | Consulting Engineer | 2018 - 2018
+
+**ENAC** | Design Engineer | 2017
