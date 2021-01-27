@@ -3,7 +3,7 @@ title: "**Akim van Eersel** <br> Data Scientist"
 image: "Profil2048.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/akim-van-eersel-115553116/"
+    url: "https://www.linkedin.com/in/vanakim/"
   - label: Twitter
     url: "https://twitter.com/vanAkim_ee"
   - label: GitHub
