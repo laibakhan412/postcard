@@ -3,7 +3,7 @@ title: "**Akim van Eersel** <br> Data Scientist"
 image: "Profil2048.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/akim-van-eersel-115553116/"
+    url: "https://www.linkedin.com/in/vanakim/"
   - label: Twitter
     url: "https://twitter.com/vanAkim_ee"
   - label: GitHub
@@ -16,35 +16,55 @@ output:
  
 ## Bio
 
-Akim van Eersel studied experimental physics and its associated means of
+<!--Akim van Eersel studied experimental physics and its associated means of
 measurement. After working in industrial instrumentation and research optronics,
 he decided to reorient himself in data science. Since the beginning of 2020,
 he has been learning independently the associated programming languages,
 the workflow from harvesting to data analysis, statistics, linear models and 
-machine learning.
+machine learning.-->
+
+Akim van Eersel is a materials science engineer with 2 years of experience in 
+R&D. Even if he is used to working with data measurements, since 2020 he focused 
+and specialized on the complete data science tools and workflow, from harvesting 
+to data analysis, statistics, modeling and machine learning.
 
 ## Education
 
-**Master’s Degree in Materials Science Engineering**  
-
+**Master’s Degree in Materials Science Engineering**   
 *INSA Rennes | France | 2014 - 2017*
 
 
 ## Certificates
 
-**Data Science Specialization** 
-
+**Data Science Specialization**   
 *by Johns Hopkins University on Coursera | 300 hours | 01/2021*  
 
-**IBM Data Science**
+**IBM Data Science**   
+*by IBM on Coursera | 300 hours | 12/2020*  
 
-*by IBM on Coursera | 300 hours | 12/2020* 
+**Machine Learning**   
+*by Stanford on Coursera | 55 hours | 02/2021*  
+
+**Data Science: Inference and Modeling**   
+*by HarvardX on edX | 25 hours | 10/2020*  
+
+**SQL for Data Science Specialization**  
+*by University of California, Davis on Coursera | ~80 hours | On-going*  
 
 
 ## Experience
 
-**ISAE-SUPAERO** | Ph.D. Student | 2018 - 2019
+**ISAE-SUPAERO** | Ph.D. Student | 2018 - 2020
 
-**ALTEN** | Consulting Engineer | 2018 - 2018
+**ALTEN** | Consulting Engineer R&D | 2018  
 
 **ENAC** | Design Engineer | 2017
+
+## Some of his projects  
+*(see all on Github)*
+
+[**Toulouse postal/township codes map view**](https://vanakim.shinyapps.io/ToulouseMap/)  
+
+[**Next word prediction**](https://vanakim.shinyapps.io/SwiftKey_Proof-of-concept/)  
+
+[**Automated daily tweeting bot about french COVID-19 metrics**](https://twitter.com/InfographiCOVID)
