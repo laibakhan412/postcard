@@ -45,8 +45,8 @@ to data analysis, statistics, modeling and machine learning.
 **Machine Learning**   
 *by Stanford on Coursera | 55 hours | 02/2021*  
 
-**Data Science: Inference and Modeling**   
-*by HarvardX on edX | 25 hours | 10/2020*  
+<!--**Data Science: Inference and Modeling**   
+*by HarvardX on edX | 25 hours | 10/2020* --> 
 
 **SQL for Data Science Specialization**  
 *by University of California, Davis on Coursera | ~80 hours | On-going*  
