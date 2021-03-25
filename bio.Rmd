@@ -1,5 +1,5 @@
 ---
-title: "**Akim van Eersel** <br> Data Scientist"
+title: "Akim van Eersel <br> Data Scientist"
 image: "Profil2048.jpg"
 links:
   - label: LinkedIn
@@ -60,8 +60,8 @@ to data analysis, statistics, modeling and machine learning.
 
 **ENAC** | Design Engineer | 2017
 
-## Some of his projects  
-*(see all on Github)*
+## Some projects  
+*(more on Github)*
 
 [**Toulouse postal/township codes map view**](https://vanakim.shinyapps.io/ToulouseMap/)  
 
