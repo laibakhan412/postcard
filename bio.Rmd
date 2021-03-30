@@ -13,20 +13,20 @@ links:
 output:
   postcards::trestles
 ---
- 
+
 ## Bio
 
 <!--Akim van Eersel studied experimental physics and its associated means of
 measurement. After working in industrial instrumentation and research optronics,
 he decided to reorient himself in data science. Since the beginning of 2020,
 he has been learning independently the associated programming languages,
-the workflow from harvesting to data analysis, statistics, linear models and 
+the workflow from harvesting to data analysis, statistics, linear models and
 machine learning.-->
 
-Akim van Eersel is a materials science engineer with 2 years of experience in 
-R&D. Even if he is used to working with data measurements, since 2020 he focused 
-and specialized on the complete data science tools and workflow, from harvesting 
-to data analysis, statistics, modeling and machine learning.
+Akim van Eersel is a materials science engineer with 2 years of experience in
+R&D. He is used to working with data measurements, from harvesting
+to data analysis, statistics, and modeling. Since 2020 he has focused
+and specialized to gain a better data science workflow proficiency.
 
 ## Education
 
@@ -43,10 +43,10 @@ to data analysis, statistics, modeling and machine learning.
 *by IBM on Coursera | 300 hours | 12/2020*  
 
 **Machine Learning**   
-*by Stanford on Coursera | 55 hours | 02/2021*  
+*by Stanford University on Coursera | 55 hours | 02/2021*  
 
 <!--**Data Science: Inference and Modeling**   
-*by HarvardX on edX | 25 hours | 10/2020* --> 
+*by HarvardX on edX | 25 hours | 10/2020* -->
 
 **SQL for Data Science Specialization**  
 *by University of California, Davis on Coursera | ~80 hours | On-going*  
