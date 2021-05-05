@@ -30,11 +30,11 @@ and specialized to gain a better data science workflow proficiency.
 
 ## Education
 
-**Master’s Degree in Materials Science Engineering**   
+**Master’s Degree in Engineering**   
 *INSA Rennes | France | 2014 - 2017*
 
 
-## Certificates
+## Main certificates
 
 **Data Science Specialization**   
 *by Johns Hopkins University on Coursera | 300 hours | 01/2021*  
@@ -49,7 +49,7 @@ and specialized to gain a better data science workflow proficiency.
 *by HarvardX on edX | 25 hours | 10/2020* -->
 
 **SQL for Data Science Specialization**  
-*by University of California, Davis on Coursera | ~80 hours | On-going*  
+*by University of California, Davis on Coursera | 88 hours | 05/2021*  
 
 
 ## Experience
@@ -60,8 +60,7 @@ and specialized to gain a better data science workflow proficiency.
 
 **ENAC** | Design Engineer | 2017
 
-## Some projects  
-*(more on Github)*
+## Some projects
 
 [**Toulouse postal/township codes map view**](https://vanakim.shinyapps.io/ToulouseMap/)  
 
